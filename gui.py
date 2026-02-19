@@ -260,3 +260,4 @@ def get_color_hex(color_name):
         Hex color code
     """
     return COLOR_MAP.get(color_name.lower(), '#888888')
+
