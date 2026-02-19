@@ -72,3 +72,4 @@ SAVE_IMAGE_FORMATS = [
 # Debug Settings
 DEBUG_MODE = False  # Enable verbose logging
 SHOW_CONFIDENCE = True  # Show confidence scores on detections
+
