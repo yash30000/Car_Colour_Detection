@@ -7,7 +7,6 @@ import cv2
 import numpy as np
 from tkinter import messagebox
 
-
 def resize_image_for_display(image, target_width=400, target_height=300):
     """
     Resize image while maintaining aspect ratio
@@ -260,4 +259,5 @@ def get_color_hex(color_name):
         Hex color code
     """
     return COLOR_MAP.get(color_name.lower(), '#888888')
+
 
