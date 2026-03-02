@@ -186,3 +186,4 @@ Created as part of a machine learning and computer vision project.
 
 **Note:** The first run will download the YOLOv8 model (~6MB) automatically. Subsequent runs will use the cached model.
 
+
