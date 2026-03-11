@@ -146,3 +146,4 @@ class CarColorDetector:
         }
         
         return image, analysis_results
+
